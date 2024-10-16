@@ -1,0 +1,7 @@
+IP Pública:
+
+Obteniendo URL del repositorio remoto...
+https://github.com/Tobiasartal/UTNFRA_SO_1P2C_2024_Artal.git
+
+El hash de mi usuario es:
+d41d8cd98f00b204e9800998ecf8427e
